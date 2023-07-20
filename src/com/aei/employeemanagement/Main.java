@@ -14,6 +14,7 @@ public class Main {
          GenderRatio.calculateMaleFemaleRatio();
 
          Payparity.calparity();
+         Designation.Salary();
 
     }
 }

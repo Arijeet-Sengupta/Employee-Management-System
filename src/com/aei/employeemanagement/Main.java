@@ -17,5 +17,7 @@ public class Main {
 
         Location.highest_sal();
         GenderRatio.calculateMaleFemaleRatio();
+
+        Payparity.calparity();
     }
 }

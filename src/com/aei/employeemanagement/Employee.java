@@ -1,6 +1,6 @@
 package com.aei.employeemanagement;
 
-public  class Employee {
+public class Employee {
     int empId;
     String empName;
     String gender;

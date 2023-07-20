@@ -17,5 +17,8 @@ public class Main {
 
         Location.highest_sal();
         GenderRatio.calculateMaleFemaleRatio();
+
+        Designation.Salary();
+
     }
 }

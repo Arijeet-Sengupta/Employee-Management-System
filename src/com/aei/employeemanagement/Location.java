@@ -8,7 +8,7 @@ class Location extends Employee{
     }
     public static void highest_sal(){
         // Storing Employee Data
-
+        //comment
         List<Employee> employee = new ArrayList<>();
         employee.add(new Employee(1,"Ary", "male",700000, "Ass software developer", "Pune"));
         employee.add(new Employee(11,"Arsh", "male",700000, "Ass software developer", "Pune"));
